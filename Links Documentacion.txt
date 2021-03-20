@@ -7,6 +7,8 @@ Node.js: https://nodejs.org/es/download/
 Python: https://www.python.org/downloads/
 VS Code: https://code.visualstudio.com/Download/
 Git: https://git-scm.com/downloads
+MySQL: https://dev.mysql.com/downloads/mysql/
+Tutorial instalacion MySQL: https://www.youtube.com/watch?v=Sv2vBT3dtvQ
 
 
 #--Links a documentacion para configuraciones--#

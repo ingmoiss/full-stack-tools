@@ -1,0 +1,55 @@
+Para crear flask-addmin: https://flask-admin.readthedocs.io/en/latest/\
+Documentacion bootstrap 4.6: https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+#--Links de descarga--#
+
+Node.js: https://nodejs.org/es/download/
+Python: https://www.python.org/downloads/
+VS Code: https://code.visualstudio.com/Download/
+Git: https://git-scm.com/downloads
+
+
+#--Links a documentacion para configuraciones--#
+
+Configuracion Git: https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez
+
+#--incluir Bootstrap en React--#
+
+Puedes incluir el framework de bootstrap en el poderoso react siguiendo estos pasos:
+
+1. instalar bootstrap
+Para instalar bootstrap, ve a la terminal, a la carpeta de tu proyecto y ejecuta el comando:
+	npm install bootstrap
+  
+2. Importa las librerias de bootstrap
+En node_modules se agregarán los archivos de bootstrap. Ve al archivo index.js de tu proyecto y justo al principio pones el siguiente código para importar la librería
+
+	import 'bootstrap/dist/css/bootstrap.min.css';
+
+Para poder usar también los componentes JavaScript de bootstrap debes instalar tambien
+	npm install jquery popper.js
+  
+Y debes importar las librerías correspondientes
+
+	import $ from 'jquery';
+	import Popper from 'popper.js';
+	import 'bootstrap/dist/js/bootstrap.bundle.min';
+
+#--Solucion de propblemas al crear aplicion de React--#
+
+Para los que tengan problemas relacional al ERPM:Error.... al instalar el : npx create-react-app <nombre_de_la_aplicacion>
+
+Deben:
+
+1° Instalar en el comando (cmd de windows ya que se presenta mayormente en este SO el problema)
+npm install -g create-react-app
+
+2° Ahora si creamos nuestro proyecto en react:
+npx create-react-app fitness
+
+Una vez instalado ejecutar:
+cd fitness
+npm start
+
+
+

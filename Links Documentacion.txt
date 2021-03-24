@@ -4,6 +4,7 @@ Para crear flask-addmin: https://flask-admin.readthedocs.io/en/latest/\
 Documentacion bootstrap 4.6: https://getbootstrap.com/docs/4.6/getting-started/introduction/
 Documentacion react-router-domm: https://reactrouter.com/web/guides/quick-start
 Documentacion React.js: https://es.reactjs.org/docs/getting-started.html
+Documentacion react icons: https://react-icons.github.io/react-icons
 
 #--Links de descarga--#
 

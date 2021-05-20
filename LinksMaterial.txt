@@ -1,0 +1,50 @@
+<--Cursos-->
+https://www.nigbox.com/cursos/
+https://leetcode.com/
+https://www.w3schools.com/default.asp
+
+<--CSS-->
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+https://flexboxfroggy.com/#es
+https://www.digitalocean.com/community/cheatsheets/css-flexbox
+https://animista.net/
+https://devdocs.io/css/@keyframes
+
+<--UI/UX-->
+https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma/
+https://www.checklist.design/
+
+<--Iconos y Images-->
+https://fontawesome.com/
+https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons
+https://www.iloveimg.com/es/redimensionar-imagen/jpg-cambiar-tamano
+https://gauger.io/fonticon/
+https://undraw.co/illustrations
+https://boxicons.com/
+https://iradesign.io/gallery/illustrations
+https://lukaszadam.com/illustrations
+https://www.flaticon.com/search?search-type=icons&word=add&license=&color=&stroke=&current_section=&author_id=&pack_id=&family_id=&style_id=&choice=&category_id=
+
+<--Metodos de Ordenamiento-->
+http://sorting.at/
+
+<--Imagenes de codigo-->
+https://carbon.now.sh/
+
+<--Reuniones Cortas-->
+https://whereby.com/
+
+<--Testing Apis-->
+https://reqbin.com/
+
+<--WireFrames-->
+https://mockflow.com/#login
+
+<--Cupones de Cursos-->
+https://cursosdev.com/coupons?page=1
+
+
+
+
+

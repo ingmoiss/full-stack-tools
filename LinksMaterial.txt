@@ -25,9 +25,14 @@ https://boxicons.com/
 https://iradesign.io/gallery/illustrations
 https://lukaszadam.com/illustrations
 https://www.flaticon.com/search?search-type=icons&word=add&license=&color=&stroke=&current_section=&author_id=&pack_id=&family_id=&style_id=&choice=&category_id=
+https://unsplash.com/
+https://www.manypixels.co/gallery
 
 <--Metodos de Ordenamiento-->
 http://sorting.at/
+
+<--Editor .MD -->
+https://pandao.github.io/editor.md/en.html
 
 <--Imagenes de codigo-->
 https://carbon.now.sh/
@@ -43,6 +48,8 @@ https://mockflow.com/#login
 
 <--Cupones de Cursos-->
 https://cursosdev.com/coupons?page=1
+
+
 
 
 

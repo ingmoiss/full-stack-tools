@@ -1,0 +1,47 @@
+Para iniciar el repositorio 
+git init 
+
+Para anadirlo al repositorio | Para agregar todos los archivos
+git add NOMBRE_DEL_ARCHIVO   | git add . -- Con punto
+
+Para agregar commit 
+git commit -m "Descripcion"
+
+Para ver las versiones que exiten 
+git log --oneline
+
+Informacion más detallada
+git log 
+
+Para cambiar de version 
+git checkout SERIAL_REPOSITORIO
+
+Muestra un historico de cambios
+git show
+
+Para reestablecer un archivo que contiene errores
+git reset SERIAL --hard elimina todo y lo cambia
+git reset SERIAL --soft solo hace cambios
+
+Para ver las ramas que exiten | Para crear una nueva rama 
+git branch                    |	git branch NOMBRE-RAMA
+
+Para copiar lo de una rama en otra
+git merge NOMBRE-RAMA
+
+Para clonar el reporsitorio a nuestra PC
+git clon LINK
+
+Para enviar porciones de codigo al repositorio remoto
+git push origin RAMA-A-LA-CUAL-ENVIAR
+
+Para traernos una version 
+git pull origin RAMA-A-LA-CUAL-ENVIAR
+
+Para crear una carpete ignore -- Ignora todas las direciones que contenga
+touch .gitignore
+
+Para etiquetar vesiones 
+git tag -a VERSION -m "MENSAJE" SERIAL-DE-VERSION
+git push --tags | Para enviar los tags al repositorio
+
